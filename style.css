@@ -1,0 +1,11 @@
+.student-contributor >img {
+    border: 1px solid black;
+    float: left;
+    width: 150px;
+}
+
+.student-contributor >p {
+display: block;
+padding: 5px;
+margin-left: 160px;
+}
